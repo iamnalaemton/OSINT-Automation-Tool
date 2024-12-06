@@ -10,12 +10,19 @@ A simple yet powerful Python-based tool with a graphical user interface (GUI) to
 
 **How to Use**
 1. Clone the repository:
+
    git clone https://github.com/iamnalaemton/osint-automation-tool.git
+   
    cd osint-automation-tool
+   
 2. Install dependencies:
+
    pip install requests python-whois shodan
+   
 3. Run the tool:
+
    python osint_tool.py
+   
 4. Enter the target domain in the input field and click 'Start OSINT'. The results will appear in the output section.
 
 **Screenshot**
@@ -32,7 +39,9 @@ A simple yet powerful Python-based tool with a graphical user interface (GUI) to
 3. Export results as a report (e.g., CSV or PDF).
 
 **Contribution**
+
 Contributions are welcome! If you have ideas for improvements or new features, feel free to fork the repository, make changes, and submit a pull request.
 
 **License**
+
 This project is licensed under the MIT License. See the LICENSE file for details.
