@@ -19,6 +19,7 @@ A simple yet powerful Python-based tool with a graphical user interface (GUI) to
 4. Enter the target domain in the input field and click 'Start OSINT'. The results will appear in the output section.
 
 **Screenshot**
+
 ![image](https://github.com/user-attachments/assets/6a355d64-af91-4786-a166-86cac671fbd4)
 
 **Requirements**
